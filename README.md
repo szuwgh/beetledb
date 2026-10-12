@@ -1,0 +1,2 @@
+# BeetleDB
+Embedded analytical database
